@@ -5,19 +5,9 @@
   "email": "urbenji@protonmail.com",
   "social": [
     {
-      "channel": "beta.cent.",
-      "handle": "urben",
-      "link_text": "cent"
-    },
-    {
       "channel": "twitter",
       "handle": "urben",
       "link_text": "twitter"
-    },
-    {
-      "channel": "cent",
-      "handle": "urben",
-      "link_text": "cent"
     }
   ]
 }
