@@ -5,6 +5,11 @@
   "email": "urbenji@protonmail.com",
   "social": [
     {
+      "channel": "",
+      "handle": "",
+      "link_text": ""
+    },
+    {
       "channel": "twitter",
       "handle": "urben",
       "link_text": "twitter"
@@ -12,12 +17,7 @@
     {
       "channel": "cent",
       "handle": "urben",
-      "link_text": "ig"
-    },
-    {
-      "channel": "github",
-      "handle": "urbenji",
-      "link_text": "gh"
+      "link_text": "cent"
     }
   ]
 }
